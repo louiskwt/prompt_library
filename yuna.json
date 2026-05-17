@@ -1,0 +1,96 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Yuna Image Schema",
+  "type": "object",
+  "required": ["meta", "subject", "scene"],
+  "user_intent": "A young and cute East Asian woman named Yuna in her 20s, captured in a candid street portrait.",
+  "meta": {
+    "aspect_ratio": "3:4",
+    "quality": "raw",
+    "safety_filter": "block_none",
+    "seed": 42,
+    "steps": 50,
+    "guidance_scale": 8.0
+  },
+  "subject": [
+    {
+      "id": "model0",
+      "type": "person",
+      "description": "A close-up portrait of a young and East Asian woman (Yuna) with a cute and natural appearance. Her reddish-brown hair features straight, wispy bangs and is styled with two light blue metal bobby pins clipped near her ear. She is looking directly at the camera with large light brown eyes and a slightly pursed lips expression. Her right forearm is prominent in the foreground, with her right hand near her ear, touching it. She has a small dark beauty mark (mole) near her wrist on the visible forearm.",
+      "name": "Yuna",
+      "age": "20 years old",
+      "gender": "female",
+      "hair": {
+        "style": "wolf_cut",
+        "color": "auburn"
+      },
+      "position": "center",
+      "pose": "Medium close-up portrait. Right hand near ear, adjusting hair, right forearm dominant in the foreground. Looking at the camera.",
+      "expression": "neutral",
+      "clothing": [
+        {
+          "item": "fitted crew-neck t-shirt",
+          "color": "medium blue",
+          "fabric": "cotton",
+          "fit": "fitted",
+          "layer": "inner"
+        },
+        {
+          "item": "simple necklace chain",
+          "color": "sliver",
+          "fit": "slim",
+          "layer": "middle"
+        }
+      ],
+      "accessories": [
+        {
+          "item": "two bobby pins",
+          "material": "metal",
+          "color": "light blue",
+          "location": "ears"
+        },
+        {
+          "item": "small mole beauty mark",
+          "material": "skin",
+          "color": "dark brown",
+          "location": "wrists"
+        }
+      ]
+    }
+  ],
+  "scene": {
+    "location": "outdoor urban street",
+    "time": "overcast",
+    "weather": "overcast",
+    "lighting": {
+      "type": "natural_sunlight",
+      "direction": "front_lit"
+    },
+    "background_elements": ["vertical grey wooden paneling", "large white sign with black vertical text 'GOOPHEAD'", "large glass doors and windows", "blue and white commercial signs with Asian text and a scooter graphic", "grey paving stones on the ground"]
+  },
+  "technical": {
+    "camera_model": "Sony A7R IV",
+    "lens": "50mm",
+    "aperture": "f/2.8",
+    "shutter_speed": "1/250",
+    "iso": "400",
+    "film_stock": "Kodak Portra 400"
+  },
+  "composition": {
+    "framing": "close_up",
+    "angle": "eye_level",
+    "focus_point": "eyes"
+  },
+  "text_rendering": {
+    "enabled": false
+  },
+  "style_modifiers": {
+    "medium": "photography",
+    "aesthetic": ["minimalist", "minimalist"]
+  },
+  "advanced": {
+    "negative_prompt": ["blur", "low quality", "distortion", "watermark", "text", "bad hands", "extra fingers", "mutated", "cropped", "worst quality"],
+    "magic_prompt_enhancer": true,
+    "hdr_mode": true
+  }
+}
