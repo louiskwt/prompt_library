@@ -1,0 +1,21 @@
+Create a professional character turnaround and reference sheet based on the provided reference image. Use the uploaded image as the primary and strict visual source for the character’s identity, proportions, facial features, body structure, hairstyle, and overall design language. Do not idealize, beautify, or alter facial proportions—preserve the subject’s natural asymmetry and unique characteristics.
+
+Translate these elements into a clean, neutral, and reusable presentation board while maintaining strong photorealistic fidelity.
+
+The final composition should resemble a polished concept art sheet set against a pure white studio background. Display the same character in four consistent full-body views: front view, side profile, back view, and three-quarter view. Ensure strict facial consistency across all views—no feature drift or reinterpretation.
+
+On the right side, include a series of clean detail panels featuring close-ups of the eyes, upper face, lower face, lips, skin texture, hair details, and one small clothing or material study. These details must retain real-world texture fidelity and avoid stylization.
+
+Preserve natural skin texture, including visible pores, subtle imperfections, fine lines, and natural tonal variation. Avoid airbrushed, overly smooth, waxy, or plastic-looking skin. Maintain realistic micro-contrast and depth in facial features.
+
+Ensure the styling remains neutral and generic, allowing the sheet to function as a reusable base template for future adaptations. Simplify overly specific, branded, or thematic elements into a universal form while preserving the character’s core identity.
+
+The outfit should be redesigned as a clean, neutral base outfit (e.g., fitted crop top and denim shorts) with minimal detailing and soft solid tones. Include realistic fabric behavior such as natural folds, seam lines, stitching, and tension—avoid flat or painted-on clothing appearance.
+
+The character should appear balanced, elegant, realistic, and adaptable. Maintain a calm, neutral expression with subtle, natural makeup—no glamour retouching or beauty filter effects.
+
+Use soft studio lighting with natural falloff and gentle shadow definition to preserve depth and facial structure. Avoid flat, overly even lighting that removes dimensionality.
+
+Avoid CGI-like rendering, excessive smoothness, or synthetic appearance. The final result should feel like a high-end photographic reference sheet (DSLR-level realism, natural color grading, accurate skin tones).
+
+The overall layout should feel like a premium design presentation board suitable for model sheets, character development, or production reference. Preserve the core identity from uploaded image while presenting it in a simplified, neutral, production-ready format that can serve as a universal template for future redesigns.
