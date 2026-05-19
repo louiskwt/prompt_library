@@ -1,0 +1,15 @@
+subject must be looking slightly to the left with her head slightly tilted to the left
+
+subject must be looking slightly to the right with her head slightly tilted to the right
+
+subject must be looking down with her head tilted down
+
+subject must be looking up with her head tilted up
+
+subject must be showing her left side profile
+
+subject must be showing her right side profile
+
+subject must be back turned, looking over left shoulder
+
+subject must be back turned, looking over right shoulder 
